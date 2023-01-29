@@ -1,0 +1,47 @@
+.back-ground{
+    background: url("IMG_8921.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
+    margin-top: 250px;
+    white-space: break-spaces;
+}
+.main-table{
+    background-color: white;
+    margin: 0 auto;
+    display: flex;
+    width:90% ;
+    border-radius: 3px;
+    border: 1px solid black;
+    flex-direction: column;
+}
+.name-container{
+    display: flex;
+    width: 100%;
+}
+.name{
+    padding-top: 5px;
+    font-size: 25px;
+    min-height: 30px;
+    border: 1px solid black;
+    text-align: center;
+    width: 45%;
+}
+.header{
+    padding-top: 5px;
+    font-size: 25px;
+    min-height: 40px;
+    background-color: #9B9B9B;
+    border: 1px solid black;
+    text-align: center;
+    width: 45%;
+}
+.Number{
+    padding-top: 5px;
+    font-size: 25px;
+    width: 10%;
+    background-color: #9B9B9B;
+    border: 1px solid black;
+    text-align: center;
+
+}
