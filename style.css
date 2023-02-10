@@ -4,7 +4,7 @@
     background-size: cover;
     background-position-x: center;
     margin-top: 250px;
-    white-space: break-spaces;
+    white-space: normal;
 }
 .main-table{
     background-color: white;
@@ -14,6 +14,10 @@
     border-radius: 3px;
     border: 1px solid black;
     flex-direction: column;
+}
+.fat{
+    font-weight: 800;
+    color: #081a73;
 }
 .name-container{
     display: flex;
