@@ -29,7 +29,7 @@
     min-height: 30px;
     border: 1px solid black;
     text-align: center;
-    width: 45%;
+    width: 65%;
 }
 .header{
     padding-top: 5px;
@@ -38,12 +38,12 @@
     background-color: #9B9B9B;
     border: 1px solid black;
     text-align: center;
-    width: 45%;
+    width: 65%;
 }
 .Number{
     padding-top: 5px;
     font-size: 25px;
-    width: 10%;
+    width: 7%;
     background-color: #9B9B9B;
     border: 1px solid black;
     text-align: center;
